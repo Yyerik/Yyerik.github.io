@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "Erik Ye"
 title_separator          : "-"
 name                     : &name "Student"
-description              : &description "Research scientist at JHU"
+description              : &description "AMS master student at JHU"
 url                      : https://Yyerik.github.io # the b
 # name                     : &name "Your Name"
 # description              : &description "personal description"
